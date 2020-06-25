@@ -1,0 +1,2 @@
+# Gancenty.github.io
+hexo
